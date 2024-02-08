@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "intership-jenkins.Core", "intership-jenkins.Core.csproj", "{4D50E212-15BE-4984-A18C-E9B68756D3BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "intership_jenkins.Tests", "..\intership_jenkins.Tests\intership_jenkins.Tests.csproj", "{08751600-43BC-4F83-8104-072733708566}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4D50E212-15BE-4984-A18C-E9B68756D3BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D50E212-15BE-4984-A18C-E9B68756D3BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D50E212-15BE-4984-A18C-E9B68756D3BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08751600-43BC-4F83-8104-072733708566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08751600-43BC-4F83-8104-072733708566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08751600-43BC-4F83-8104-072733708566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08751600-43BC-4F83-8104-072733708566}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
